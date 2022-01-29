@@ -1,6 +1,6 @@
 ### Hey, I'm Gabriel!
 
-<p>A Full-Stack Web Developer student at Trybe</p>
+<p>A Full-Stack Web Developer student</p>
  
 ```javascript
 const aboutMe = {
