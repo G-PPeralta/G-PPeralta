@@ -1,6 +1,6 @@
 ### Hey, I'm Gabriel!
 
-<p>A Full-Stack Web Developer student</p>
+<p>A Full-Stack Web Developer</p>
  
 ```javascript
 const aboutMe = {
