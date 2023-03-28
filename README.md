@@ -8,15 +8,15 @@ const aboutMe = {
     code: [Javascript, Typescript, HTML, CSS],
     technologies: {
         frontEnd: {
-          js: ["React", "Next Js"],
-          css: ["Bootstrap", "Styled Components"]
+          js: ["React.js", "Next.js"],
+          css: ["Bootstrap", "Styled Components", "Tailwind"]
         },
         backEnd: {
-          js: ["Node", "Express"], //currently learning
+          js: ["Node", "Express", "Nest.js"],
         },
-        databases: ["MongoDB", "mySQL"], //currently learning
+        databases: ["MongoDB", "mySQL", "Postgres"],
     },
-    currentOccupation: ["bootcamp student, open for job opportunities"],
+    currentOccupation: ["full-stack web developer"],
     funFact: "I used to be a lawyer",
   };
 ```
